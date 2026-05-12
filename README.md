@@ -23,6 +23,7 @@ https://github.com/user-attachments/assets/4c957bd7-64e1-4a7e-9993-136740d911fe
 
 ## Updates
 
+- **[2026-05-08]** NeoVerse has been selected as the **best paper** of [VideoWorldModel Workshop @ CVPR 2026](https://videoworldmodel-workshop.github.io/)!
 - **[2026-04-14]** Release training scripts and reproducible demo notebooks.
 - **[2026-04-09]** NeoVerse has been selected as a **highlight** paper!
 - **[2026-02-21]** NeoVerse has been accepted by **CVPR 2026**!
