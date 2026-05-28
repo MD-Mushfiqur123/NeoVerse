@@ -21,7 +21,7 @@ try:
 except ImportError:
     from .logger import logger
 
-    logger.warn("Dependency 'e3nn' not found. Required for rotating the camera space SH coeff")
+    logger.warning("Dependency 'e3nn' not found. Required for rotating the camera space SH coeff")
 
 
 def project_to_so3_strict(M: torch.Tensor) -> torch.Tensor:

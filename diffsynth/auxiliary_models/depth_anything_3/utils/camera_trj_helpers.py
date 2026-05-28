@@ -23,7 +23,7 @@ try:
 except ImportError:
     from .logger import logger
 
-    logger.warn("Dependency 'scipy' not found. Required for interpolating camera trajectory.")
+    logger.warning("Dependency 'scipy' not found. Required for interpolating camera trajectory.")
 
 from .geometry import as_homogeneous
 
